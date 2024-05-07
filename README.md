@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install Pong Game, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/pong-game.git`
+1. Clone the repository: `git clone git@github.com:imrabbihasan/Pong-Game.git`
 2. Navigate to the project directory: `cd pong-game`
 3. Install the required packages: `pip install -r requirements.txt`
 
